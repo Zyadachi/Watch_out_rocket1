@@ -424,6 +424,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 3140786118038494427, guid: 348030f8e725b614f919e48896a5196b, type: 3}
+      propertyPath: m_RootOrder
+      value: 10
+      objectReference: {fileID: 0}
     - target: {fileID: 5938844382502059009, guid: 348030f8e725b614f919e48896a5196b, type: 3}
       propertyPath: m_Name
       value: Rocket
@@ -471,6 +475,10 @@ PrefabInstance:
     - target: {fileID: 5938844382502059021, guid: 348030f8e725b614f919e48896a5196b, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7402477160267051718, guid: 348030f8e725b614f919e48896a5196b, type: 3}
+      propertyPath: m_RootOrder
+      value: 11
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 348030f8e725b614f919e48896a5196b, type: 3}
